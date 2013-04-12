@@ -1,6 +1,5 @@
 
-LESS CSS Toolkit
-===
+#LESS CSS Toolkit
 
 A collection of re-usable LESS CSS Mixins
 
@@ -9,8 +8,8 @@ Created by [Dan Ott](http://dtott.com)
 Maintained and improved by Dan Ott and [Bridget Stewart](http://sharksandcupcakes.com)
 
 
-Mixins:<span id="top"></span>
-=======
+##Mixins:
+
 * [animation](#animation)
 * [background-clip](#background-clip)
 * [background-origin](#background-origin)
@@ -29,8 +28,8 @@ Mixins:<span id="top"></span>
 * [transition](#transition)
 
 
-<span id="animation" />.animation(@name, @duration, @timing, @delay: 0, @iterations: infinite, @direction: normal)
----
+###.animation
+
 Usage:
 ```css
 .example {
@@ -48,10 +47,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="background-clip" />.background-clip(@clip)
----
+###.background-clip
+
 Usage:
 ```css
 .example {
@@ -67,10 +66,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="background-origin" />.background-origin(@origin)
----
+###.background-origin
+
 Usage:
 ```css
 .example {
@@ -87,10 +86,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="background-size" />.background-size(@size)
----
+###.background-size
+
 Usage:
 ```css
 .example {
@@ -107,10 +106,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="border-image" />.border-image(@img, @number, @repeat: stretch)
----
+###.border-image
+
 Usage:
 ```css
 .example {
@@ -128,10 +127,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="border-radius" />.border-radius(@radius)
----
+###.border-radius
+
 Usage:
 ```css
 .example {
@@ -157,10 +156,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="box-shadow" />.box-shadow(@shadow)
----
+###.box-shadow
+
 Usage:
 ```css
 .example {
@@ -176,10 +175,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="box-sizing" />.box-sizing(@sizing)
----
+###.box-sizing
+
 Usage:
 ```css
 .example {
@@ -195,10 +194,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="columns" />.columns(@columnValue, @gap: normal, @rule: none)
----
+###.columns
+
 Usage:
 ```css
 .example {
@@ -220,11 +219,11 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="clearfix" />.clearfix()
----
-Uses http://nicolasgallagher.com/micro-clearfix-hack/
+###.clearfix
+
+Uses Nicolas Gallagher's [cleafix method](http://nicolasgallagher.com/micro-clearfix-hack/)
 
 Usage:
 ```css
@@ -247,10 +246,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="linear-gradient" />.linear-gradient()
----
+###.linear-gradient
+
 Simple, two-color gradient. If no background color is assigned, assigns a background-color based on a mix of start and end colors. There are a few ways to use it:
 ```css
 .linear-gradient(#0F0, #F00);
@@ -302,13 +301,13 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="button-gradient" />.button-gradient(@startcolor, @midcolor1, @midcolor2, @stopcolor)
----
+###.button-gradient
+
 Common button gradient style
 
-Visual example of output: http://codepen.io/bridgestew/details/lfydn#pen-details-tab
+[Demo](http://codepen.io/bridgestew/details/lfydn#pen-details-tab)
 
 Usage:
 ```css
@@ -328,10 +327,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="size" />.size(@width,@height)
----
+###.size
+
 Small mixin to set width and height. That's all it does.
 
 Usage:
@@ -348,13 +347,11 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="image-replacement" />.image-replacement(@width, @height, @img)
----
-Using the newer Zeldman technique
+###.image-replacement
 
-http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/
+Using the newer [Zeldman technique](http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/)
 
 Usage:
 ```css
@@ -374,10 +371,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="transform" />.transform(@transform) and .transform-origin(@origin)
----
+###.transform
+
 Usage:
 ```css
 .example {
@@ -399,10 +396,10 @@ Compiles to:
 }
 ```
 
-[Back to Top](#top)
+[Back to Top](#Mixins)
 
-<span id="transition" />.transition(@transition)
----
+###.transition
+
 Usage:
 ```css
 .example {
