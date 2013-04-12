@@ -47,7 +47,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.background-clip
 
@@ -66,7 +66,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.background-origin
 
@@ -86,7 +86,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.background-size
 
@@ -106,7 +106,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.border-image
 
@@ -127,7 +127,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.border-radius
 
@@ -156,7 +156,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.box-shadow
 
@@ -175,7 +175,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.box-sizing
 
@@ -194,7 +194,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.columns
 
@@ -219,7 +219,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.clearfix
 
@@ -246,7 +246,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.linear-gradient
 
@@ -301,7 +301,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.button-gradient
 
@@ -327,7 +327,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.size
 
@@ -347,7 +347,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.image-replacement
 
@@ -371,7 +371,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.transform
 
@@ -396,7 +396,7 @@ Compiles to:
 }
 ```
 
-[Back to Top](#Mixins)
+[Back to Top](#mixins)
 
 ###.transition
 
