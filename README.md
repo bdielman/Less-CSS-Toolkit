@@ -49,6 +49,8 @@ Compiles to:
 
 [Back to Top](#mixins)
 
+---
+
 ###.background-clip
 
 Usage:
@@ -67,6 +69,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.background-origin
 
@@ -88,6 +92,8 @@ Compiles to:
 
 [Back to Top](#mixins)
 
+---
+
 ###.background-size
 
 Usage:
@@ -107,6 +113,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.border-image
 
@@ -128,6 +136,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.border-radius
 
@@ -158,6 +168,8 @@ Compiles to:
 
 [Back to Top](#mixins)
 
+---
+
 ###.box-shadow
 
 Usage:
@@ -177,6 +189,8 @@ Compiles to:
 
 [Back to Top](#mixins)
 
+---
+
 ###.box-sizing
 
 Usage:
@@ -195,6 +209,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.columns
 
@@ -220,6 +236,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.clearfix
 
@@ -247,6 +265,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.linear-gradient
 
@@ -303,6 +323,8 @@ Compiles to:
 
 [Back to Top](#mixins)
 
+---
+
 ###.button-gradient
 
 Common button gradient style
@@ -329,6 +351,8 @@ Compiles to:
 
 [Back to Top](#mixins)
 
+---
+
 ###.size
 
 Small mixin to set width and height. That's all it does.
@@ -348,6 +372,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.image-replacement
 
@@ -373,6 +399,8 @@ Compiles to:
 
 [Back to Top](#mixins)
 
+---
+
 ###.transform
 
 Usage:
@@ -397,6 +425,8 @@ Compiles to:
 ```
 
 [Back to Top](#mixins)
+
+---
 
 ###.transition
 
